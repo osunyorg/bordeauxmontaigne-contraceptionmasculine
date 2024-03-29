@@ -24,7 +24,19 @@ items:
 - title: Hormonale
   target: "/equipe/"
   kind: page
-  children: []
+  children:
+  - title: Qu'est-ce que c'est ?
+    target: "/mentions-legales/"
+    kind: page
+    children: []
+  - title: Gel testostérone
+    target: "/mentions-legales/"
+    kind: page
+    children: []
+  - title: Piqûre testostérone
+    target: "/mentions-legales/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/organisations/"
   kind: page
