@@ -1,15 +1,19 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
+- title: Thermique
   target: "/actualites/"
   kind: page
-  children: []
-- title: Équipe
+  children:
+  - title: Qu'est-ce que c'est ?
+    target: "/mentions-legales/"
+    kind: page
+    children: []
+- title: Hormonale
   target: "/equipe/"
   kind: page
   children: []
-- title: Organisations
+- title: Ressources
   target: "/organisations/"
   kind: page
   children: []
