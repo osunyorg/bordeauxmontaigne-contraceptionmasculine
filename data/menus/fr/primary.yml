@@ -9,6 +9,10 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
+  - title: Slip chauffant
+    target: "/mentions-legales/"
+    kind: page
+    children: []
 - title: Hormonale
   target: "/equipe/"
   kind: page
