@@ -14,11 +14,11 @@ items:
     kind: page
     children: []
   - title: Anneau testiculaire
-    target: "/mentions-legales/"
+    target: "/anneaux-thermique/"
     kind: page
     children: []
   - title: Jockstrap
-    target: "/mentions-legales/"
+    target: "/jock-strap/"
     kind: page
     children: []
 - title: Hormonale
