@@ -25,8 +25,8 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Androgel
-    target: "/androgel/"
+  - title: Préservatif
+    target: "/preservatif/"
     kind: page
     children: []
   - title: Piqûre testostérone
