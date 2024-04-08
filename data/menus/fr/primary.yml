@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: Slip chauffant
-    target: "/mentions-legales/"
+    target: "/slip-chauffant/"
     kind: page
     children: []
   - title: Anneau testiculaire
