@@ -17,10 +17,6 @@ items:
     target: "/anneaux-thermique/"
     kind: page
     children: []
-  - title: Jockstrap
-    target: "/jock-strap/"
-    kind: page
-    children: []
 - title: Hormonale
   target: "/equipe/"
   kind: page
