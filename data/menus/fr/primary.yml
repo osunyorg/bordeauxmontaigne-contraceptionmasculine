@@ -17,7 +17,7 @@ items:
     target: "/anneaux-thermique/"
     kind: page
     children: []
-- title: Hormonale
+- title: Autres
   target: "/equipe/"
   kind: page
   children:
