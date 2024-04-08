@@ -29,8 +29,8 @@ items:
     target: "/preservatif/"
     kind: page
     children: []
-  - title: Piqûre testostérone
-    target: "/mentions-legales/"
+  - title: Le retrait
+    target: "/retrait/"
     kind: page
     children: []
 - title: Ressources
