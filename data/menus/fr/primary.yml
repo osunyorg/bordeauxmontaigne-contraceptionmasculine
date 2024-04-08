@@ -33,6 +33,10 @@ items:
     target: "/retrait/"
     kind: page
     children: []
+  - title: Vasectomie
+    target: "/vasectomie/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/organisations/"
   kind: page
