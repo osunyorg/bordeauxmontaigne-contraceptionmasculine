@@ -2,8 +2,9 @@
   .blocks .heading h2, body.full-width .heading h2
     width: 2rem
 
+$rouge-sympa: #CF4521
 h1
-  color: #CF4521
+  color: $rouge-sympa
   font-weight: 900
 
 @media (min-width: 992px)
@@ -19,10 +20,14 @@ h1
   font-weight: 900
   line-height: var(--h5-line-height)
   text-transform: none
-  color: #CF4521
+  color: $rouge-sympa
 
 h2 a
   text-decoration-color: #00000045
   text-decoration-thickness: 1px
   text-underline-offset: 0.2em
   transition: text-decoration-color 0.3s ease
+
+.block-testimonials blockquote p
+  color: $rouge-sympa
+  font-style: normal
