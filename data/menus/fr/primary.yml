@@ -33,10 +33,6 @@ items:
     target: "/preservatif/"
     kind: page
     children: []
-  - title: Le retrait
-    target: "/retrait/"
-    kind: page
-    children: []
 - title: Ressources
   target: "/organisations/"
   kind: page
