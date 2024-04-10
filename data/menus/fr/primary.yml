@@ -17,7 +17,7 @@ items:
     target: "/"
     kind: page
     children: []
-- title: Autres
+- title: Me faire accompagné
   target: "/equipe/"
   kind: page
   children:
