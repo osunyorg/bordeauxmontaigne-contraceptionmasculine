@@ -25,10 +25,6 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Préservatif
-    target: "/preservatif/"
-    kind: page
-    children: []
 - title: Ressources
   target: "/organisations/"
   kind: page
