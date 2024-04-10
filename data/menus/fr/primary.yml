@@ -21,7 +21,7 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: À Propos
+- title: À propos
   target: "/organisations/"
   kind: page
   children: []
