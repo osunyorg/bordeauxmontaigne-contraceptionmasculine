@@ -9,16 +9,8 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Slip chauffant
-    target: "/slip-chauffant/"
-    kind: page
-    children: []
   - title: Anneau testiculaire
     target: "/anneaux-thermique/"
-    kind: page
-    children: []
-  - title: Remonte-couilles toulousain
-    target: "/remonte-c-t/"
     kind: page
     children: []
 - title: Autres
@@ -27,18 +19,6 @@ items:
   children:
   - title: Qu'est-ce que c'est ?
     target: "/mentions-legales/"
-    kind: page
-    children: []
-  - title: Préservatif
-    target: "/preservatif/"
-    kind: page
-    children: []
-  - title: Le retrait
-    target: "/retrait/"
-    kind: page
-    children: []
-  - title: Vasectomie
-    target: "/vasectomie/"
     kind: page
     children: []
 - title: Ressources
