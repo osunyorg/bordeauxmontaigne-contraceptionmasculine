@@ -9,8 +9,8 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Anneau testiculaire
-    target: "/anneaux-thermique/"
+  - title: Hormonales
+    target: "/"
     kind: page
     children: []
 - title: Autres
