@@ -5,12 +5,16 @@ items:
   target: "/actualites/"
   kind: page
   children:
-  - title: Qu'est-ce que c'est ?
+  - title: Thermiques
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Anneau testiculaire
-    target: "/anneaux-thermique/"
+  - title: Hormonales
+    target: "/"
+    kind: page
+    children: []
+  - title: Reconnues par l'état
+    target: "/"
     kind: page
     children: []
 - title: Autres
