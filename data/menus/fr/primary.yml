@@ -20,11 +20,7 @@ items:
 - title: Me faire accompagné
   target: "/equipe/"
   kind: page
-  children:
-  - title: Qu'est-ce que c'est ?
-    target: "/mentions-legales/"
-    kind: page
-    children: []
+  children: []
 - title: À Propos
   target: "/organisations/"
   kind: page
