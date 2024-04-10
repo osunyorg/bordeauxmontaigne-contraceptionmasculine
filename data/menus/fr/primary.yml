@@ -13,10 +13,6 @@ items:
     target: "/anneaux-thermique/"
     kind: page
     children: []
-  - title: Remonte-couilles toulousain
-    target: "/remonte-c-t/"
-    kind: page
-    children: []
 - title: Autres
   target: "/equipe/"
   kind: page
