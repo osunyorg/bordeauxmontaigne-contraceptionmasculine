@@ -22,7 +22,7 @@ items:
   kind: page
   children: []
 - title: À propos
-  target: "/organisations/"
+  target: "/a-propos/"
   kind: page
   children: []
 
