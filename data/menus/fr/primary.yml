@@ -9,10 +9,6 @@ items:
     target: "/mentions-legales/"
     kind: page
     children: []
-  - title: Slip chauffant
-    target: "/slip-chauffant/"
-    kind: page
-    children: []
   - title: Anneau testiculaire
     target: "/anneaux-thermique/"
     kind: page
