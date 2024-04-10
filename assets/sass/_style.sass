@@ -16,7 +16,7 @@ h1
 
 .block .block-title
   font-family: "cabinet grotesk", "Arial", sans-serif
-  font-size: 2.5rem
+  font-size: 3rem
   font-weight: 900
   line-height: var(--h5-line-height)
   text-transform: none
@@ -38,4 +38,32 @@ h2 a
   align-items: center
 
 .block-pages .grid article .media img
+  transition: rotate 0.3s ease
+  transform-origin: center
   object-fit: contain
+  transition: transform 0.3s ease-in-out
+  display: block
+  margin: 0 auto
+
+.block-pages .grid article .media img::after
+  animation: bounceRotate 0.5s ease-in-out forwards
+@keyframes bounceRotate
+  0%
+    transform: scale(1) rotate(0deg)
+  50%
+    transform: scale(1.1) rotate(8deg)
+  100%
+    transform: scale(1) rotate(0deg)
+
+.block-chapter .notes *
+  font-family: "Supreme-Regular", "Baskerville", "Times", sans-serif
+  font-size: 1.3rem
+  font-weight: normal
+  line-height: 2rem
+
+.block-chapter .chapter
+  padding-top: 4rem
+  padding-bottom: 4rem
+
+.block-call_to_action
+  --cta-background-color: #CF4521
