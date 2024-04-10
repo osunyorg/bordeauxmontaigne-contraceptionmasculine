@@ -17,16 +17,12 @@ items:
     target: "/"
     kind: page
     children: []
-- title: Autres
+- title: Me faire accompagné
   target: "/equipe/"
   kind: page
-  children:
-  - title: Qu'est-ce que c'est ?
-    target: "/mentions-legales/"
-    kind: page
-    children: []
-- title: Ressources
-  target: "/organisations/"
+  children: []
+- title: À propos
+  target: "/a-propos/"
   kind: page
   children: []
 
