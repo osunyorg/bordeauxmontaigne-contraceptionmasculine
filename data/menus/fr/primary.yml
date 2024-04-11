@@ -36,7 +36,11 @@ items:
   - title: Reconnues par l'état
     target: "/"
     kind: page
-    children: []
+    children:
+    - title: Préservatif
+      target: "/preservatif/"
+      kind: page
+      children: []
 - title: Me faire accompagné
   target: "/equipe/"
   kind: page
