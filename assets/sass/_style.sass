@@ -83,24 +83,32 @@ h2 a
 
 .block-pages--grid
   .media
-    transition: transform 0.25s ease
+    transition: transform 0.5s ease
   article:hover
     .media
-      animation: bounceRotate 0.25s ease forwards
+      animation: bounceRotate 0.5s ease forwards
   article:not(:hover)
     .media
-      animation: rotateBack 0.25s ease forwards
+      animation: bounceBack 0.3s ease forwards
 
 @keyframes bounceRotate
   0%
     transform: rotate(0deg)
-  50%
+  20%
+    transform: rotate(14deg)
+  40%
+    transform: rotate(8deg)
+  60%
     transform: rotate(12deg)
+  80%
+    transform: rotate(10deg)
   100%
     transform: rotate(10deg)
 
-@keyframes rotateBack
+@keyframes bounceBack
   0%
     transform: rotate(10deg)
+  50%
+    transform: rotate(-2deg)
   100%
     transform: rotate(0deg)
