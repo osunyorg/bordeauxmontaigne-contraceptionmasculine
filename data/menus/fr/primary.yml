@@ -24,7 +24,11 @@ items:
   - title: Hormonales
     target: ''
     kind: blank
-    children: []
+    children:
+    - title: Gel hormonal
+      target: "/gel-testosterone/"
+      kind: page
+      children: []
   - title: Reconnues par l'état
     target: "/"
     kind: page
