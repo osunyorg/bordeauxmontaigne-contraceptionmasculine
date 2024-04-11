@@ -6,8 +6,8 @@ items:
   kind: page
   children:
   - title: Thermiques
-    target: "/mentions-legales/"
-    kind: page
+    target: ''
+    kind: blank
     children: []
   - title: Hormonales
     target: "/"
