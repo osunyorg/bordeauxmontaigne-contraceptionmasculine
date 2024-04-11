@@ -120,11 +120,20 @@ h2 a
 
 .quote
   font-family: 'Superclarendon', serif
-  font-size: 32px
+  font-size: 5rem
+  color: red
+  vertical-align: middle
+.left-quote
+  font-family: 'Superclarendon', serif
+  font-size: 5rem
   color: red
   position: absolute
   top: 0
-
-.left-quote
   left: 0
   transform: translateX(-100%)
+
+@include media-breakpoint-down(desktop)
+  .quote
+    font-size: 2rem
+  .main-title
+    font-size: 2rem
