@@ -45,6 +45,10 @@ items:
       target: "/vasectomie/"
       kind: page
       children: []
+    - title: Retrait
+      target: "/retrait/"
+      kind: page
+      children: []
 - title: Me faire accompagné
   target: "/equipe/"
   kind: page
