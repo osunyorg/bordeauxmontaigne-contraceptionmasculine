@@ -86,4 +86,21 @@ h2 a
     transition: transform 0.25s ease
   article:hover
     .media
-      transform: rotate(10deg)
+      animation: bounceRotate 0.25s ease forwards
+  article:not(:hover)
+    .media
+      animation: rotateBack 0.25s ease forwards
+
+@keyframes bounceRotate
+  0%
+    transform: rotate(0deg)
+  50%
+    transform: rotate(12deg)
+  100%
+    transform: rotate(10deg)
+
+@keyframes rotateBack
+  0%
+    transform: rotate(10deg)
+  100%
+    transform: rotate(0deg)
