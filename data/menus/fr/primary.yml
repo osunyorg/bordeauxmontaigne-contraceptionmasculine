@@ -17,9 +17,13 @@ items:
       target: "/calecon-thermique/"
       kind: page
       children: []
+    - title: Jockstrap
+      target: "/jockstrap/"
+      kind: page
+      children: []
   - title: Hormonales
-    target: "/"
-    kind: page
+    target: ''
+    kind: blank
     children: []
   - title: Reconnues par l'état
     target: "/"
