@@ -9,4 +9,8 @@ items:
   target: "/plan-du-site/"
   kind: page
   children: []
+- title: Lexique
+  target: "/lexique/"
+  kind: page
+  children: []
 
