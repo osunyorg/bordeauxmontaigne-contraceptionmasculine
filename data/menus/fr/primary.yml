@@ -8,7 +8,11 @@ items:
   - title: Thermiques
     target: ''
     kind: blank
-    children: []
+    children:
+    - title: Anneau testiculaire
+      target: "/anneaux-thermique/"
+      kind: page
+      children: []
   - title: Hormonales
     target: "/"
     kind: page
