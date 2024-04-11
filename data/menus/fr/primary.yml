@@ -29,6 +29,10 @@ items:
       target: "/gel-testosterone/"
       kind: page
       children: []
+    - title: Injection hormonale
+      target: "/injection-testosterone/"
+      kind: page
+      children: []
   - title: Reconnues par l'état
     target: "/"
     kind: page
