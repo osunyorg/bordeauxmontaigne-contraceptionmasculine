@@ -73,3 +73,17 @@ h2 a
   body.full-width .block-pages--grid .grid
     padding-bottom: 5rem
     padding-top: 4rem
+
+@include media-breakpoint-up(desktop)
+  .page__home
+    .blocks
+      .block-chapter:nth-of-type(4)
+        .chapter
+          flex-direction: row-reverse
+
+.block-pages--grid
+  .media
+    transition: transform 0.25s ease
+  article:hover
+    .media
+      transform: rotate(10deg)
