@@ -41,6 +41,10 @@ items:
       target: "/preservatif/"
       kind: page
       children: []
+    - title: Vasectomie
+      target: "/vasectomie/"
+      kind: page
+      children: []
 - title: Me faire accompagné
   target: "/equipe/"
   kind: page
