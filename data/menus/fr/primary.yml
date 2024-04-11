@@ -49,7 +49,7 @@ items:
       target: "/retrait/"
       kind: page
       children: []
-- title: Me faire accompagné
+- title: Accompagnement
   target: "/equipe/"
   kind: page
   children: []
