@@ -6,17 +6,49 @@ items:
   kind: page
   children:
   - title: Thermiques
-    target: "/mentions-legales/"
-    kind: page
-    children: []
+    target: ''
+    kind: blank
+    children:
+    - title: Anneau testiculaire
+      target: "/anneaux-thermique/"
+      kind: page
+      children: []
+    - title: Caleçon thermique
+      target: "/calecon-thermique/"
+      kind: page
+      children: []
+    - title: Jockstrap
+      target: "/jockstrap/"
+      kind: page
+      children: []
   - title: Hormonales
-    target: "/"
-    kind: page
-    children: []
+    target: ''
+    kind: blank
+    children:
+    - title: Gel hormonal
+      target: "/gel-testosterone/"
+      kind: page
+      children: []
+    - title: Injection hormonale
+      target: "/injection-testosterone/"
+      kind: page
+      children: []
   - title: Reconnues par l'état
-    target: "/"
-    kind: page
-    children: []
+    target: ''
+    kind: blank
+    children:
+    - title: Préservatif
+      target: "/preservatif/"
+      kind: page
+      children: []
+    - title: Vasectomie
+      target: "/vasectomie/"
+      kind: page
+      children: []
+    - title: Retrait
+      target: "/retrait/"
+      kind: page
+      children: []
 - title: Me faire accompagné
   target: "/equipe/"
   kind: page
