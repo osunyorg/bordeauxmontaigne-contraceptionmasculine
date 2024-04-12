@@ -22,8 +22,8 @@ items:
       kind: page
       children: []
   - title: Hormonales
-    target: ''
-    kind: blank
+    target: "/methode-hormonale/"
+    kind: page
     children:
     - title: Gel hormonal
       target: "/gel-testosterone/"
