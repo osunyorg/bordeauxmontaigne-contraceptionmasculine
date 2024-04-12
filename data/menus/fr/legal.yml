@@ -14,7 +14,7 @@ items:
   kind: page
   children: []
 - title: Kit presse
-  target: ''
-  kind: blank
+  target: "/presse/"
+  kind: page
   children: []
 
