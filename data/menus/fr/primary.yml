@@ -1,13 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Nos méthodes
+- title: Les méthodes
   target: "/actualites/"
   kind: page
   children:
   - title: Thermiques
-    target: ''
-    kind: blank
+    target: "/methode-thermique/"
+    kind: page
     children:
     - title: Anneau testiculaire
       target: "/anneaux-thermique/"

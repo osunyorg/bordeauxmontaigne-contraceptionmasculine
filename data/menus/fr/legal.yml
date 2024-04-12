@@ -13,4 +13,8 @@ items:
   target: "/lexique/"
   kind: page
   children: []
+- title: Kit presse
+  target: "/presse/"
+  kind: page
+  children: []
 
