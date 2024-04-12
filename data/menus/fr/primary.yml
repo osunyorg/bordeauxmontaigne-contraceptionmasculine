@@ -34,8 +34,8 @@ items:
       kind: page
       children: []
   - title: Reconnues par l'état
-    target: ''
-    kind: blank
+    target: "/reconnues-par-letat/"
+    kind: page
     children:
     - title: Préservatif
       target: "/preservatif/"
