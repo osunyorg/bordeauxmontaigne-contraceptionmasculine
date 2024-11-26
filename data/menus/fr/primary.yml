@@ -13,14 +13,18 @@ items:
       target: "/anneaux-thermique/"
       kind: page
       children: []
+      file: content/fr/pages/anneaux-thermique/_index.html
     - title: Caleçon thermique
       target: "/calecon-thermique/"
       kind: page
       children: []
+      file: content/fr/pages/calecon-thermique/_index.html
     - title: Jockstrap
       target: "/jockstrap/"
       kind: page
       children: []
+      file: content/fr/pages/jockstrap/_index.html
+    file: content/fr/pages/methode-thermique/_index.html
   - title: Hormonales
     target: "/methode-hormonale/"
     kind: page
@@ -29,10 +33,13 @@ items:
       target: "/gel-testosterone/"
       kind: page
       children: []
+      file: content/fr/pages/gel-testosterone/_index.html
     - title: Injection hormonale
       target: "/injection-testosterone/"
       kind: page
       children: []
+      file: content/fr/pages/injection-testosterone/_index.html
+    file: content/fr/pages/methode-hormonale/_index.html
   - title: Reconnues par l'état
     target: "/reconnues-par-letat/"
     kind: page
@@ -41,20 +48,27 @@ items:
       target: "/preservatif/"
       kind: page
       children: []
+      file: content/fr/pages/preservatif/_index.html
     - title: Vasectomie
       target: "/vasectomie/"
       kind: page
       children: []
+      file: content/fr/pages/vasectomie/_index.html
     - title: Retrait
       target: "/retrait/"
       kind: page
       children: []
+      file: content/fr/pages/retrait/_index.html
+    file: content/fr/pages/reconnues-par-letat/_index.html
+  file: content/fr/posts/_index.html
 - title: Accompagnement
   target: "/accompagnement/"
   kind: page
   children: []
+  file: content/fr/pages/accompagnement/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 
