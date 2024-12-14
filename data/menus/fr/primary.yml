@@ -13,17 +13,21 @@ items:
       target: "/anneaux-thermique/"
       kind: page
       children: []
+      path: "/pages/anneaux-thermique"
       file: content/fr/pages/anneaux-thermique/_index.html
     - title: Caleçon thermique
       target: "/calecon-thermique/"
       kind: page
       children: []
+      path: "/pages/calecon-thermique"
       file: content/fr/pages/calecon-thermique/_index.html
     - title: Jockstrap
       target: "/jockstrap/"
       kind: page
       children: []
+      path: "/pages/jockstrap"
       file: content/fr/pages/jockstrap/_index.html
+    path: "/pages/methode-thermique"
     file: content/fr/pages/methode-thermique/_index.html
   - title: Hormonales
     target: "/methode-hormonale/"
@@ -33,12 +37,15 @@ items:
       target: "/gel-testosterone/"
       kind: page
       children: []
+      path: "/pages/gel-testosterone"
       file: content/fr/pages/gel-testosterone/_index.html
     - title: Injection hormonale
       target: "/injection-testosterone/"
       kind: page
       children: []
+      path: "/pages/injection-testosterone"
       file: content/fr/pages/injection-testosterone/_index.html
+    path: "/pages/methode-hormonale"
     file: content/fr/pages/methode-hormonale/_index.html
   - title: Reconnues par l'état
     target: "/reconnues-par-letat/"
@@ -48,27 +55,34 @@ items:
       target: "/preservatif/"
       kind: page
       children: []
+      path: "/pages/preservatif"
       file: content/fr/pages/preservatif/_index.html
     - title: Vasectomie
       target: "/vasectomie/"
       kind: page
       children: []
+      path: "/pages/vasectomie"
       file: content/fr/pages/vasectomie/_index.html
     - title: Retrait
       target: "/retrait/"
       kind: page
       children: []
+      path: "/pages/retrait"
       file: content/fr/pages/retrait/_index.html
+    path: "/pages/reconnues-par-letat"
     file: content/fr/pages/reconnues-par-letat/_index.html
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Accompagnement
   target: "/accompagnement/"
   kind: page
   children: []
+  path: "/pages/accompagnement"
   file: content/fr/pages/accompagnement/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
