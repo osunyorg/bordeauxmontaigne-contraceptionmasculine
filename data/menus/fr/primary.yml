@@ -4,26 +4,31 @@ items:
 - title: Les méthodes
   target: "/actualites/"
   kind: page
+  new_tab: false
   children:
   - title: Thermiques
     target: "/methode-thermique/"
     kind: page
+    new_tab: false
     children:
     - title: Anneau testiculaire
       target: "/anneaux-thermique/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/anneaux-thermique"
       file: content/fr/pages/anneaux-thermique/_index.html
     - title: Caleçon thermique
       target: "/calecon-thermique/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/calecon-thermique"
       file: content/fr/pages/calecon-thermique/_index.html
     - title: Jockstrap
       target: "/jockstrap/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/jockstrap"
       file: content/fr/pages/jockstrap/_index.html
@@ -32,16 +37,19 @@ items:
   - title: Hormonales
     target: "/methode-hormonale/"
     kind: page
+    new_tab: false
     children:
     - title: Gel hormonal
       target: "/gel-testosterone/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/gel-testosterone"
       file: content/fr/pages/gel-testosterone/_index.html
     - title: Injection hormonale
       target: "/injection-testosterone/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/injection-testosterone"
       file: content/fr/pages/injection-testosterone/_index.html
@@ -50,22 +58,26 @@ items:
   - title: Reconnues par l'état
     target: "/reconnues-par-letat/"
     kind: page
+    new_tab: false
     children:
     - title: Préservatif
       target: "/preservatif/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/preservatif"
       file: content/fr/pages/preservatif/_index.html
     - title: Vasectomie
       target: "/vasectomie/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/vasectomie"
       file: content/fr/pages/vasectomie/_index.html
     - title: Retrait
       target: "/retrait/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/retrait"
       file: content/fr/pages/retrait/_index.html
@@ -76,12 +88,14 @@ items:
 - title: Accompagnement
   target: "/accompagnement/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/accompagnement"
   file: content/fr/pages/accompagnement/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
