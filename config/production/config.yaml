@@ -2,6 +2,11 @@
 
 baseURL: https://www.contraceptionmasculine.org
 
+## OSUNY
+osuny:
+  website:
+    id: b7a4ab2b-f7e1-4132-8271-e22b6a7c030b
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
